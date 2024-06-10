@@ -1,0 +1,21 @@
+/**
+font-family: "Roboto Serif", serif;
+font-family: "Cardo", serif;
+**/
+$color-principal:#DEAC80;
+$color-secundario: #FFFAB7;
+$color-terciario: #D1BB9E;
+
+$Color:(
+    color1:blue
+    color2:blueviolet
+    color3:beige
+    color4:black
+);
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}

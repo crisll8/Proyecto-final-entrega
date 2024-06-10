@@ -1,0 +1,24 @@
+header{
+    display: flex;
+    flex-direction:column;
+    flex-wrap: nowrap;
+    background-color:$color-secundario
+    ;
+    justify-content: space-between;
+    align-items:center;
+    }
+    header h1{
+        text-align: center; 
+        text-decoration:underline;
+        text-transform: uppercase;
+        font-size: 30px;
+        font-weight: 400;
+        font-family: "Roboto Serif", serif;
+        font-size: 1.5 rem;
+        background-color:$color-principal
+        ;
+    }
+    h2{font-family: "Cardo", serif;
+    }
+    p{font-family: "Roboto Serif", serif;
+    }
