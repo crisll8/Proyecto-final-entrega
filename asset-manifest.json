@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Entrega-finalR/static/css/main.695d3e98.css",
+    "main.js": "/Entrega-finalR/static/js/main.c152e827.js",
+    "static/js/453.9f898690.chunk.js": "/Entrega-finalR/static/js/453.9f898690.chunk.js",
+    "static/media/pantalon.jpg": "/Entrega-finalR/static/media/pantalon.75f48a52a700b04fc234.jpg",
+    "static/media/zapatillas.jpg": "/Entrega-finalR/static/media/zapatillas.9b8c6a13e149646c6265.jpg",
+    "static/media/remera.jpg": "/Entrega-finalR/static/media/remera.5182d0dfbebcbdfd3912.jpg",
+    "static/media/campera.jpg": "/Entrega-finalR/static/media/campera.6ad34f62f4dec5bdba45.jpg",
+    "index.html": "/Entrega-finalR/index.html",
+    "main.695d3e98.css.map": "/Entrega-finalR/static/css/main.695d3e98.css.map",
+    "main.c152e827.js.map": "/Entrega-finalR/static/js/main.c152e827.js.map",
+    "453.9f898690.chunk.js.map": "/Entrega-finalR/static/js/453.9f898690.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.695d3e98.css",
+    "static/js/main.c152e827.js"
+  ]
+}
